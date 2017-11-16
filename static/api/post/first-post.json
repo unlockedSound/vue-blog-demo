@@ -1,0 +1,15 @@
+{
+  "results": [
+    {
+      "id": "first-post",
+      "title": "Welcome!",
+      "content": "Welcome to our blog, Integrity Sandwiches. \n\nWe thought this would be a good time to explain ourselves a bit. Our name comes from an inside joke that a great sandwich is not only delicious, but also has integrity, staying together from first bite to the last, but that is the joke that got us here. \n\nUltimately we are a few friends who all have our own interests in having a food blog, so here we are. \n\nWe plan to cover the full range: from food trucks to Michelin star establishments; home made recipes; all variety of drinks; home made recipes; and anything else we happen to do. \n\nWe hope you enjoy!",
+      "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/karl-magnuson.jpg",
+      "meta": {
+        "description": "A brief introduction to who we are!",
+        "published": "2017-11-16T17:00:00Z",
+        "author": "David Chorvinsky"
+      }
+    }
+  ]
+}
